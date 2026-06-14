@@ -44,8 +44,8 @@ ML               → Decision Tree · Ridge Regression · K-Means Clustering
 
 ## Formazione / Education
 
-- **Master Professionale in Data Science, Analytics e AI** — Start2Impact University *(in corso)*
-- **Laurea Triennale in Economia Aziendale** — UniUPO / Pegaso *(89/110, 2026)*
+- **Master Professionale in Data Science, Analytics e AI** — Start2Impact University
+- **Laurea Triennale in Economia Aziendale** — UniUPO / Pegaso
 - **Cambridge B2 English Certificate**
 
 ---
