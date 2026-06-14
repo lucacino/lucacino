@@ -22,7 +22,7 @@ Attualmente **Data & Business Analyst @ CLAAS Italia S.p.A.** — analisi perfor
 | Progetto | Descrizione | Stack |
 |---|---|---|
 | [Green Menu Dashboard](https://github.com/lucacino/tableau-green-menu-dashboard) | Carbon footprint degli alimenti per supportare un ristorante nella costruzione di un menù sostenibile | Tableau |
-| [Food & Global Obesity](https://github.com/lucacino/looker-studio-food-obesity-analysis) | Correlazione tra consumi alimentari e tassi di obesità in 170+ paesi | Looker Studio |
+| [Food & Global Obesity](https://github.com/lucacino/looker-food-obesity-analysis) | Correlazione tra consumi alimentari e tassi di obesità in 170+ paesi | Looker Studio |
 
 ### Python
 | Progetto | Descrizione | Stack |
