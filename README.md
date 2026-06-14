@@ -13,6 +13,11 @@ Attualmente **Data & Business Analyst @ CLAAS Italia S.p.A.** — analisi perfor
 |---|---|---|
 | [Titanic Survival Prediction](https://github.com/lucacino/ml-titanic-survival-prediction) | Classificazione sopravvivenza con Decision Tree — focus su data leakage prevention e hyperparameter tuning | Python, scikit-learn |
 
+### AI Agents
+| Progetto | Descrizione | Stack |
+|---|---|---|
+| [n8n AI Personal Agent](https://github.com/lucacino/n8n-ai-personal-agent) | Agente AI personale che riceve comandi via Telegram e gestisce autonomamente email, calendario e rubrica contatti | n8n, OpenAI, Telegram |
+
 ### SQL
 | Progetto | Descrizione | Stack |
 |---|---|---|
