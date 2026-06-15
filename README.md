@@ -51,6 +51,7 @@ ML               → Decision Tree · Linear Regression · K-Means · XGBoost
 
 ## Formazione / Education
 
+- Laurea Magistrale in Intelligenza Artificiale e Innovazione Digitale (da settembre 2026)
 - Master Professionale in Data Science, Analytics e AI — Start2Impact University
 - Laurea Triennale in Economia Aziendale — UniUPO / Pegaso
 - Cambridge B2 English Certificate
