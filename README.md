@@ -43,7 +43,7 @@ Attualmente **Data & Business Analyst @ CLAAS Italia S.p.A.** — analisi perfor
 ```
 Analisi Dati     → SQL (PostgreSQL, SQL Server) · Python (pandas, numpy, scikit-learn)
 Visualization    → Tableau · Looker Studio · Power BI
-Business Tools   → Salesforce · WIGeoweb · Excel Avanzato
+Business Tools   → Salesforce · WIGeoweb · Excel Avanzato · n8n
 ML               → Decision Tree · Linear Regression · K-Means · XGBoost
 ```
 
